@@ -3,19 +3,27 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/popy.jpg
 ---
 
 :::{#me}
 
 ## Goals
-I don't have any long time goals, my current goal is to complete my PhD candidacy by next semester.
+I don't have any long time goals, my immediate goal is to complete my PhD candidacy by next semester.
 
 ## Education
 Master in Science (Microbiology)
+University of Chittagong
 
 ## Experience
-Have experience in antibiotic resistance, oyster microbiome experiments
+
+Research Experience
+ 1) Antibiotic resistance
+ 2) Oyster microbiome
+ 3) Phage biology
+ 
+Teaching Experience
+ General Microbiology Lab (BMS 504)
 
 :::
 
